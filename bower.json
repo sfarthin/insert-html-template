@@ -1,0 +1,17 @@
+{
+  "name": "insertHTML",
+  "version": "0.0.1",
+  "authors": [
+    "Steven Farthing <me@stevefar.com>"
+  ],
+  "description": "Simply insert the contents of a file (via ajax) into the DOM",
+  "main": "insert-html-template.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
